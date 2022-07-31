@@ -13,10 +13,6 @@
 <br>
 <br>
 
-## Preview
-
-<p align="center"><img src="https://user-images.githubusercontent.com/107768845/182029189-1a16c09f-4e1b-4815-810e-fc6db2309588.png"></p>
-
 ## Tutorial 
 
 **First, you have to install [Python](https://www.python.org/downloads).**
@@ -28,6 +24,10 @@ Then, you can run **`launch.bat`** to install the requirements.
 **That's it.**
 
 <br>
+
+## Preview
+
+<p align="center"><img src="https://user-images.githubusercontent.com/107768845/182029189-1a16c09f-4e1b-4815-810e-fc6db2309588.png"></p>
 
 
 <center>
