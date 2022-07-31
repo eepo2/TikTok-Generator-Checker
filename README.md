@@ -1,11 +1,11 @@
-<p align="center"><img src="https://media.discordapp.net/attachments/1002999664091607160/1003294580730515466/ti459tfcd-tiktok-logo-the-new-tiktok-logo-png-2022.png", width="400", height="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/107768845/182029149-e99337da-97f7-4fc8-bc0b-1f571e1d4250.png", width="400", height="400"></p>
+
 
 ```
 100% accurate TikTok username checker - Using Discord webhooks! 
 ```
 
 <br>
-
 
 <p align="center">Please remember that this is a new project. If you have an idea or an error, open an issue.</p>
 
@@ -15,7 +15,7 @@
 
 ## Preview
 
-<p align="center"><img src="https://media.discordapp.net/attachments/1002999664091607160/1003295612017582121/py_97I5eGvIfq.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/107768845/182029189-1a16c09f-4e1b-4815-810e-fc6db2309588.png"></p>
 
 ## Tutorial 
 
