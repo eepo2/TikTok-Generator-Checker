@@ -1,0 +1,4 @@
+Available usernames will be written into this file.
+Make sure that you've pasted your webhook url into the first line of TikGen.py
+
+
