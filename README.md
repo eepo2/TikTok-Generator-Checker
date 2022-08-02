@@ -5,6 +5,8 @@
 100% accurate TikTok username checker - Using Discord a webhook!
 ```
 
+<p align="center">Don't forget to ⭐ this repository!</p>
+
 <br>
 
 <p align="center">Please remember that this is a new project. If you have an idea or an error, open an issue.</p>
