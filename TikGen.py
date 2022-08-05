@@ -79,7 +79,7 @@ def check():
 
     copped = '\n'.join(copped)
     data = {
-    "content": f"🚨**{len(username)}L Usernames**🚨\n```{copped}```",
+    "content": f"**TikTok**\n🚨{len(username)}L Usernames🚨\n```{copped}```",
     "username": "github.com/quentn69",
     "avatar_url": "https://avatars.githubusercontent.com/u/107768845?v=4"}
     if len(copped) == 0:
