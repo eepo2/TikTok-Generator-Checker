@@ -5,7 +5,6 @@ length = 4 # change this for a different length
 
 import os
 import sys
-import json
 import random
 import requests
 import subprocess
@@ -86,7 +85,10 @@ def check():
         sleep(60)
         restart()
     else:
-        requests.post(webhook, json=data)
+        try:
+            requests.post(webhook, json=data)
+        except:
+            pass
         sleep(60)
         restart()
 
