@@ -2,7 +2,7 @@
 
 
 ```
-100% accurate TikTok username checker - Using Discord a webhook!
+100% accurate TikTok username checker - Using a Discord webhook!
 ```
 
 <p align="center">Don't forget to ⭐ this repository!</p>
