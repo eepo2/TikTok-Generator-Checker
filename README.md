@@ -41,7 +41,7 @@ Then, you can run **`launch.bat`** to install the requirements.
 
 ## Contact me
 
-quentn#6969
+quentn#7195
 <br>
 
 --- 
